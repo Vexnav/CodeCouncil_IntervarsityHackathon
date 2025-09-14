@@ -1,4 +1,6 @@
 ⚙️ Setup in Unity
+Important: To run the game, please drag both scenes into your scene manager. Then unload the Game-Over scene. Then your project will be safe to run!
+
 1. Player (Shark)
 
 Add a SpriteRenderer with your shark sprite.
